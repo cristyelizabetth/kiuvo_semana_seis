@@ -1,0 +1,1 @@
+Modelo de datos: cada venta registra producto, cantidad, precio y hora.
