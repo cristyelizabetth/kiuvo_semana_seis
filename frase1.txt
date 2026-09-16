@@ -1,1 +1,2 @@
 Modelo de datos: cada venta registra producto, cantidad, precio y hora.
+Ademas se debe registrar el turno del cajero que atendio la venta.
