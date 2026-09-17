@@ -1,0 +1,1 @@
+El menu muestra los productos disponibles.
