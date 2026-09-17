@@ -1,1 +1,2 @@
 El menu muestra los productos disponibles.
+Tambien permite conocer las opciones antes de realizar un pedido.
