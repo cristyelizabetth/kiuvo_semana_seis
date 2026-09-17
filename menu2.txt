@@ -1,0 +1,1 @@
+Los clientes pueden consultar bebidas y alimentos.
